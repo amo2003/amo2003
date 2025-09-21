@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my GITHUB Account
 
-- 💬 Ask me about **JAVA, HTML**
+- 💬 Ask me about **JAVA, HTML, MERN Stack, JavaScript**
 
 - 📫 How to reach me **amodindupa9@gmail.com**
 
